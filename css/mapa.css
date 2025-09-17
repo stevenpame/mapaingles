@@ -1,0 +1,26 @@
+
+#map {
+    /* Layout & Sizing */
+    display: block;
+    width: 100%;
+    min-width: 800px;
+    max-width: 1600px;
+    height: 80vh;
+    min-height: 600px;
+    margin: 30px auto 30px 0;
+
+    background: #e0e7ff;
+    border: 2px solid #333;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.direccion {
+    display: block;
+    margin: 10px 0;
+    padding: 20px 0;
+    color: #000;
+    font-size: 1.1rem;
+    text-align: left;
+    text-decoration: none;
+}

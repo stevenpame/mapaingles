@@ -1,0 +1,527 @@
+[
+    {
+        "Número": 1,
+        "Lugar_espanol": "Portería",
+        "Lugar_ingles": "Gatehouse / Main Entrance"
+    },
+    {
+        "Número": 2,
+        "Lugar_espanol": "Almacén de llaves",
+        "Lugar_ingles": "Key Storage"
+    },
+    {
+        "Número": 3,
+        "Lugar_espanol": "Tienda de granja",
+        "Lugar_ingles": "Farm Store"
+    },
+    {
+        "Número": 4,
+        "Lugar_espanol": "Tienda de café (Cafetería)",
+        "Lugar_ingles": "Coffee Shop (Cafeteria)"
+    },
+    {
+        "Número": 5,
+        "Lugar_espanol": "Parqueadero",
+        "Lugar_ingles": "Parking lot"
+    },
+    {
+        "Número": 6,
+        "Lugar_espanol": "Fondo emprender",
+        "Lugar_ingles": "Entrepreneurship Fund"
+    },
+    {
+        "Número": 7,
+        "Lugar_espanol": "Coordinación CTPI",
+        "Lugar_ingles": "CTPI Coordination"
+    },
+    {
+        "Número": 8,
+        "Lugar_espanol": "Secretaría",
+        "Lugar_ingles": "Secretariat"
+    },
+    {
+        "Número": 9,
+        "Lugar_espanol": "Subdirección",
+        "Lugar_ingles": "Deputy Management"
+    },
+    {
+        "Número": 10,
+        "Lugar_espanol": "Coordinación ÁGEO",
+        "Lugar_ingles": "AGEO Coordination"
+    },
+    {
+        "Número": 11,
+        "Lugar_espanol": "Salón Bilingüismo",
+        "Lugar_ingles": "Bilingualism Classroom"
+    },
+    {
+        "Número": 12,
+        "Lugar_espanol": "Salón Gestión Mercadeo",
+        "Lugar_ingles": "Marketing Management Room"
+    },
+    {
+        "Número": 13,
+        "Lugar_espanol": "Administración Educativa CTPI",
+        "Lugar_ingles": "CTPI Educational Administration"
+    },
+    {
+        "Número": 14,
+        "Lugar_espanol": "Baños Instructores",
+        "Lugar_ingles": "Instructors' Bathrooms"
+    },
+    {
+        "Número": 15,
+        "Lugar_espanol": "Bodega Mujeres",
+        "Lugar_ingles": "Women's Storage"
+    },
+    {
+        "Número": 16,
+        "Lugar_espanol": "Bodega (Cuarto Comunicaciones)",
+        "Lugar_ingles": "Storage (Communications Room)"
+    },
+    {
+        "Número": 17,
+        "Lugar_espanol": "Apoyo 1",
+        "Lugar_ingles": "Support Room 1"
+    },
+    {
+        "Número": 18,
+        "Lugar_espanol": "Animación 3D",
+        "Lugar_ingles": "3D Animation"
+    },
+    {
+        "Número": 19,
+        "Lugar_espanol": "Sistemas",
+        "Lugar_ingles": "Systems"
+    },
+    {
+        "Número": 20,
+        "Lugar_espanol": "Cafetería Instructores",
+        "Lugar_ingles": "Instructors' Cafeteria"
+    },
+    {
+        "Número": 21,
+        "Lugar_espanol": "ADS 2",
+        "Lugar_ingles": "ADS 2"
+    },
+    {
+        "Número": 22,
+        "Lugar_espanol": "Enfoque Pedagógico",
+        "Lugar_ingles": "Pedagogical Approach"
+    },
+    {
+        "Número": 23,
+        "Lugar_espanol": "Ambiente con Confecciones",
+        "Lugar_ingles": "Garment-Making Room"
+    },
+    {
+        "Número": 24,
+        "Lugar_espanol": "Sala Emergencia",
+        "Lugar_ingles": "Emergency Room"
+    },
+    {
+        "Número": 25,
+        "Lugar_espanol": "TICS 1",
+        "Lugar_ingles": "ICT 1"
+    },
+    {
+        "Número": 26,
+        "Lugar_espanol": "TICS 2",
+        "Lugar_ingles": "ICT 2"
+    },
+    {
+        "Número": 27,
+        "Lugar_espanol": "Círculo Comunicaciones",
+        "Lugar_ingles": "Communications Circle"
+    },
+    {
+        "Número": 28,
+        "Lugar_espanol": "Baños hombres",
+        "Lugar_ingles": "Men's Restroom"
+    },
+    {
+        "Número": 29,
+        "Lugar_espanol": "Baños mujeres",
+        "Lugar_ingles": "Women's Restroom"
+    },
+    {
+        "Número": 30,
+        "Lugar_espanol": "Oficina Gestión de la Innovación",
+        "Lugar_ingles": "Innovation Management Office"
+    },
+    {
+        "Número": 31,
+        "Lugar_espanol": "Subdirección - Sala de Juntas",
+        "Lugar_ingles": "Deputy Management - Board Room"
+    },
+    {
+        "Número": 32,
+        "Lugar_espanol": "Subdirección - TICS",
+        "Lugar_ingles": "Deputy Management - ICT"
+    },
+    {
+        "Número": 33,
+        "Lugar_espanol": "Aseo",
+        "Lugar_ingles": "Cleaning"
+    },
+    {
+        "Número": 34,
+        "Lugar_espanol": "Gestión Humana",
+        "Lugar_ingles": "Human Management"
+    },
+    {
+        "Número": 35,
+        "Lugar_espanol": "Baños mujeres",
+        "Lugar_ingles": "Women's Restroom"
+    },
+    {
+        "Número": 36,
+        "Lugar_espanol": "Baños hombres",
+        "Lugar_ingles": "Men's Restroom"
+    },
+    {
+        "Número": 37,
+        "Lugar_espanol": "Archivo de Gestión",
+        "Lugar_ingles": "Management Archive"
+    },
+    {
+        "Número": 38,
+        "Lugar_espanol": "Comunicaciones y Atención Ciudadano",
+        "Lugar_ingles": "Communications and Citizen Services"
+    },
+    {
+        "Número": 39,
+        "Lugar_espanol": "Punto de Venta",
+        "Lugar_ingles": "Point of Sale"
+    },
+    {
+        "Número": 40,
+        "Lugar_espanol": "Oficina Contratos",
+        "Lugar_ingles": "Contracts Office"
+    },
+    {
+        "Número": 41,
+        "Lugar_espanol": "Oficina Presupuesto",
+        "Lugar_ingles": "Budget Office"
+    },
+    {
+        "Número": 42,
+        "Lugar_espanol": "Ambiente Multimedia",
+        "Lugar_ingles": "Multimedia Environment"
+    },
+    {
+        "Número": 43,
+        "Lugar_espanol": "Biblioteca",
+        "Lugar_ingles": "Library"
+    },
+    {
+        "Número": 44,
+        "Lugar_espanol": "Salón de Sistemas",
+        "Lugar_ingles": "Systems Room"
+    },
+    {
+        "Número": 45,
+        "Lugar_espanol": "Auditorio",
+        "Lugar_ingles": "Auditorium"
+    },
+    {
+        "Número": 46,
+        "Lugar_espanol": "Ambiente Sistemas Automatizados",
+        "Lugar_ingles": "Automated Systems Environment"
+    },
+    {
+        "Número": 47,
+        "Lugar_espanol": "Ambiente de Robótica",
+        "Lugar_ingles": "Robotics Environment"
+    },
+    {
+        "Número": 48,
+        "Lugar_espanol": "Fábrica de Mecanizado",
+        "Lugar_ingles": "Machining Factory"
+    },
+    {
+        "Número": 49,
+        "Lugar_espanol": "Ambiente CNC",
+        "Lugar_ingles": "CNC Environment"
+    },
+    {
+        "Número": 50,
+        "Lugar_espanol": "Planta Biotecnología",
+        "Lugar_ingles": "Biotechnology Plant"
+    },
+    {
+        "Número": 51,
+        "Lugar_espanol": "Planta Agroindustrial",
+        "Lugar_ingles": "Agro-industrial Plant"
+    },
+    {
+        "Número": 52,
+        "Lugar_espanol": "Planta de Frutas y Hortalizas",
+        "Lugar_ingles": "Fruit and Vegetable Plant"
+    },
+    {
+        "Número": 53,
+        "Lugar_espanol": "Laboratorio Fisicoquímicos",
+        "Lugar_ingles": "Physicochemical Laboratory"
+    },
+    {
+        "Número": 54,
+        "Lugar_espanol": "Laboratorio Biológicos",
+        "Lugar_ingles": "Biological Laboratory"
+    },
+    {
+        "Número": 55,
+        "Lugar_espanol": "Laboratorio Bioprocesos",
+        "Lugar_ingles": "Bioprocess Laboratory"
+    },
+    {
+        "Número": 56,
+        "Lugar_espanol": "Laboratorio de Suelos",
+        "Lugar_ingles": "Soil Laboratory"
+    },
+    {
+        "Número": 57,
+        "Lugar_espanol": "Laboratorio de Aguas",
+        "Lugar_ingles": "Water Laboratory"
+    },
+    {
+        "Número": 58,
+        "Lugar_espanol": "Laboratorio de Alimentos",
+        "Lugar_ingles": "Food Laboratory"
+    },
+    {
+        "Número": 59,
+        "Lugar_espanol": "Cultivo de Tejidos Vegetales",
+        "Lugar_ingles": "Plant Tissue Culture"
+    },
+    {
+        "Número": 60,
+        "Lugar_espanol": "Invernadero",
+        "Lugar_ingles": "Greenhouse"
+    },
+    {
+        "Número": 61,
+        "Lugar_espanol": "Bioterio",
+        "Lugar_ingles": "Animal House"
+    },
+    {
+        "Número": 62,
+        "Lugar_espanol": "Biocomercio",
+        "Lugar_ingles": "Biocommerce"
+    },
+    {
+        "Número": 63,
+        "Lugar_espanol": "Jardín",
+        "Lugar_ingles": "Garden"
+    },
+    {
+        "Número": 64,
+        "Lugar_espanol": "Parqueadero",
+        "Lugar_ingles": "Parking lot"
+    },
+    {
+        "Número": 65,
+        "Lugar_espanol": "Patio de contenedores",
+        "Lugar_ingles": "Container Yard"
+    },
+    {
+        "Número": 66,
+        "Lugar_espanol": "Cancha de fútbol",
+        "Lugar_ingles": "Soccer Field"
+    },
+    {
+        "Número": 67,
+        "Lugar_espanol": "Cancha de Voleibol",
+        "Lugar_ingles": "Volleyball Court"
+    },
+    {
+        "Número": 68,
+        "Lugar_espanol": "Cancha de baloncesto",
+        "Lugar_ingles": "Basketball Court"
+    },
+    {
+        "Número": 69,
+        "Lugar_espanol": "Cancha de microfútbol",
+        "Lugar_ingles": "Mini-soccer Court"
+    },
+    {
+        "Número": 70,
+        "Lugar_espanol": "Gimnasio",
+        "Lugar_ingles": "Gym"
+    },
+    {
+        "Número": 71,
+        "Lugar_espanol": "Enfermería",
+        "Lugar_ingles": "Infirmary"
+    },
+    {
+        "Número": 72,
+        "Lugar_espanol": "Oficina de Bienestar Aprendices",
+        "Lugar_ingles": "Apprentice Welfare Office"
+    },
+    {
+        "Número": 73,
+        "Lugar_espanol": "Salón Audiovisuales",
+        "Lugar_ingles": "Audiovisual Room"
+    },
+    {
+        "Número": 74,
+        "Lugar_espanol": "Coordinación de Formación",
+        "Lugar_ingles": "Training Coordination"
+    },
+    {
+        "Número": 75,
+        "Lugar_espanol": "Oficina de apoyo",
+        "Lugar_ingles": "Support Office"
+    },
+    {
+        "Número": 76,
+        "Lugar_espanol": "Laboratorio de Mecatrónica",
+        "Lugar_ingles": "Mechatronics Laboratory"
+    },
+    {
+        "Número": 77,
+        "Lugar_espanol": "Ambiente de Soldadura",
+        "Lugar_ingles": "Welding Environment"
+    },
+    {
+        "Número": 78,
+        "Lugar_espanol": "Oficina de apoyo",
+        "Lugar_ingles": "Support Office"
+    },
+    {
+        "Número": 79,
+        "Lugar_espanol": "Laboratorio de Electrónica",
+        "Lugar_ingles": "Electronics Laboratory"
+    },
+    {
+        "Número": 80,
+        "Lugar_espanol": "Laboratorio de Metrología",
+        "Lugar_ingles": "Metrology Laboratory"
+    },
+    {
+        "Número": 81,
+        "Lugar_espanol": "Cancha",
+        "Lugar_ingles": "Court"
+    },
+    {
+        "Número": 82,
+        "Lugar_espanol": "Bodega Construcción",
+        "Lugar_ingles": "Construction Storage"
+    },
+    {
+        "Número": 83,
+        "Lugar_espanol": "Parqueadero Motos",
+        "Lugar_ingles": "Motorcycle Parking"
+    },
+    {
+        "Número": 84,
+        "Lugar_espanol": "Confecciones",
+        "Lugar_ingles": "Garment Production"
+    },
+    {
+        "Número": 85,
+        "Lugar_espanol": "Bienes 1 y Agro",
+        "Lugar_ingles": "Assets 1 and Agriculture"
+    },
+    {
+        "Número": 86,
+        "Lugar_espanol": "Planta Lácteos",
+        "Lugar_ingles": "Dairy Plant"
+    },
+    {
+        "Número": 87,
+        "Lugar_espanol": "Planta Chocolatería y Confitería",
+        "Lugar_ingles": "Chocolate and Confectionery Plant"
+    },
+    {
+        "Número": 88,
+        "Lugar_espanol": "Laboratorio Análisis Sensorial",
+        "Lugar_ingles": "Sensory Analysis Laboratory"
+    },
+    {
+        "Número": 89,
+        "Lugar_espanol": "Laboratorio Control Calidad",
+        "Lugar_ingles": "Quality Control Laboratory"
+    },
+    {
+        "Número": 90,
+        "Lugar_espanol": "Fábrica de Software",
+        "Lugar_ingles": "Software Factory"
+    },
+    {
+        "Número": 91,
+        "Lugar_espanol": "Laboratorio ciencias básicas",
+        "Lugar_ingles": "Basic Science Laboratory"
+    },
+    {
+        "Número": 92,
+        "Lugar_espanol": "Fábrica de Software",
+        "Lugar_ingles": "Software Factory"
+    },
+    {
+        "Número": 93,
+        "Lugar_espanol": "Construcción 101",
+        "Lugar_ingles": "Construction 101"
+    },
+    {
+        "Número": 94,
+        "Lugar_espanol": "Alturas",
+        "Lugar_ingles": "Heights"
+    },
+    {
+        "Número": 95,
+        "Lugar_espanol": "Baños hombres",
+        "Lugar_ingles": "Men's Restroom"
+    },
+    {
+        "Número": 96,
+        "Lugar_espanol": "Baños mujeres",
+        "Lugar_ingles": "Women's Restroom"
+    },
+    {
+        "Número": 97,
+        "Lugar_espanol": "Cuarto de comunicaciones intermedio #21",
+        "Lugar_ingles": "Intermediate Communication Room #21"
+    },
+    {
+        "Número": 98,
+        "Lugar_espanol": "Ambiente GIS 201",
+        "Lugar_ingles": "GIS Environment 201"
+    },
+    {
+        "Número": 99,
+        "Lugar_espanol": "Ambiente CAD 202",
+        "Lugar_ingles": "CAD Environment 202"
+    },
+    {
+        "Número": 100,
+        "Lugar_espanol": "Ambiente construcción 205",
+        "Lugar_ingles": "Construction Environment 205"
+    },
+    {
+        "Número": 101,
+        "Lugar_espanol": "Ambiente prototipado 204",
+        "Lugar_ingles": "Prototyping Environment 204"
+    },
+    {
+        "Número": 102,
+        "Lugar_espanol": "Ambiente dibujo 203",
+        "Lugar_ingles": "Drawing Environment 203"
+    },
+    {
+        "Número": 103,
+        "Lugar_espanol": "Mensanini",
+        "Lugar_ingles": "Mensanini"
+    },
+    {
+        "Número": 104,
+        "Lugar_espanol": "Ambiente hidrosanitarios",
+        "Lugar_ingles": "Hydrosanitary Environment"
+    },
+    {
+        "Número": 105,
+        "Lugar_espanol": "Ambiente suelos",
+        "Lugar_ingles": "Soil Environment"
+    }
+]
