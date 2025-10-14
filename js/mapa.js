@@ -1,5 +1,5 @@
 
-const imageUrl = 'imagenes/mapa.png';
+const imageUrl = './imagenes/mapa.png';
 const imageWidth = 1200;
 const imageHeight = 800;
 
